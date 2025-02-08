@@ -39,7 +39,7 @@ By participating in this project, you agree to abide by our [Code of Conduct](ht
 
   - Examples or references (if applicable).
 
-🛠 **Submitting Pull Requests**
+📤 **Submitting Pull Requests**
 
 1. **Fork the Repository**
    
