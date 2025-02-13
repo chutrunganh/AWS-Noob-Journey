@@ -43,5 +43,22 @@ Here’s a breakdown of the topics I’ve covered so far:
 
 [Read More](2.%20Networking_in_VPC.md)
 
+3. **Storage Services**
+
+- S3: Store data in form of objects.
+- EBS: Block storage for EC2 instances.
+- EFS: Network file storage for multiple EC2 instances.
+
+[Read More](3.%20Storage_Services.md)
+
+4. **Compute Services**
+
+- EC2: Virtual servers in the cloud.
+- Lambda: Serverless computing.
+- ECS: Container management service.
+
+[Read More](4.%20Compute_Services.md)
+
+
 **Still under construction... 🚧**
 
